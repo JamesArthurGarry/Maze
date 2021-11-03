@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maze_generate
+comment0.text=\r\n\ Generates\ and\ returns\ the\ maze\ from\ the\ text\ file\r\n
+comment1.params=
+comment1.target=Maze_generate()
+comment1.text=\r\n\ A\ dummy\ constructor\ to\ allow\ the\ call\ of\ its\ method\ from\ its\ parent\ class\ (Maze)\r\n
+comment2.params=mazeblueprint
+comment2.target=Maze_piece[][]\ generateMazeFromTxtFile(java.lang.String)
+comment2.text=\r\n\ Generates\ and\ returns\ the\ maze\ from\ the\ text\ file\r\n
+comment3.params=dimensions\ wait_time
+comment3.target=Maze_piece[][]\ generateRandomMaze(int,\ int)
+comment3.text=\r\n\ Generates\ a\ random\ maze\ with\ a\ couple\ restrictions\r\n
+comment4.params=piece\ maze\ row\ col
+comment4.target=void\ generatePiece(java.lang.String,\ Maze_piece[][],\ int,\ int)
+comment4.text=\r\n\ Generate\ a\ new\ piece\ based\ on\ given\ string\ in\ position\ maze[row][col]\r\n
+comment5.params=row\ col
+comment5.target=boolean\ startEndAdjacent(int,\ int)
+comment5.text=\r\n\ Determines\ if\ a\ location\ is\ near\ to\ start\ or\ end\r\n
+numComments=6

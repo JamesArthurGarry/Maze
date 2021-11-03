@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Maze_piece
+comment0.text=\r\n\ Maze_piece\ which\ knows\ about\ its\ location\r\n\ The\ parent\ class\ for\ the\ pieces\ which\ makes\ up\ the\ maze\r\n
+comment1.params=position
+comment1.target=Maze_piece(int[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Maze_pieces\r\n\ Sets\ the\ intial\ values\ for\ the\ maze\ piece\r\n
+comment2.params=
+comment2.target=int[]\ getLocation()
+comment2.text=\r\n\ An\ accessor\ method\ for\r\n
+numComments=3

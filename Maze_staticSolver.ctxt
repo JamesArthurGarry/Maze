@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Maze_staticSolver
+comment0.text=\r\n\ A\ static\ solver\ (The\ path\ the\ solvers\ take\ through\ the\ maze)\r\n\ which\ knows\ about\ its\ location\ (From\ its\ parent\ class)\r\n
+comment1.params=location
+comment1.target=Maze_staticSolver(int[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Maze_dormantSolver\r\n\ Sets\ the\ intial\ values\ for\ the\ static\ solver\r\n
+numComments=2

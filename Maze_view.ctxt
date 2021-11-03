@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maze_view
+comment0.text=\r\n\ Creates\ a\ visulisation\ of\ the\ maze\ using\ java.awt\ classes\r\n
+comment1.params=height\ width
+comment1.target=Maze_view(int,\ int)
+comment1.text=\r\n\ Constructor\ to\ create/intialise\ the\ maze\ view\ panel\r\n
+comment2.params=
+comment2.target=java.awt.Container\ createInfoPanel()
+comment2.text=\r\n\ Creates\ and\ returns\ the\ info\ panel\ to\ the\ constructor\r\n
+comment3.params=maze\ solvingState\ currentStep\ updateMaze
+comment3.target=void\ updateMazeView(Maze_piece[][],\ java.lang.String,\ int,\ boolean)
+comment3.text=\r\n\ Updates\ maze\ view\ with\ new\ maze,\ solving\ state\ and\ current\ step\ count\r\n
+comment4.params=mazePieceClass\ colour
+comment4.target=void\ setColour(java.lang.Class,\ java.awt.Color)
+comment4.text=\r\n\ Define\ a\ color\ to\ be\ used\ for\ a\ given\ class\r\n
+comment5.params=mazePieceClass
+comment5.target=java.awt.Color\ getColour(java.lang.Class)
+comment5.text=\r\n\ Returns\ the\ colour\ for\ the\ given\ Maze_piece\r\n
+numComments=6

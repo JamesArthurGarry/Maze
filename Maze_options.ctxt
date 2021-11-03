@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Maze_options
+comment0.text=\r\n\ Creates\ the\ option\ buttons\ for\ the\ maze\ generation\ and\ solving\ types\r\n\ Start\ off\ the\ maze\ methods\r\n
+comment1.params=
+comment1.target=void\ mazeOptions()
+comment1.text=\r\n\ Creates\ the\ maze\ option\ buttons\r\n
+comment2.params=
+comment2.target=void\ runMazeGenTextFile()
+numComments=3

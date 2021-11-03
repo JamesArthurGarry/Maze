@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Maze_solve
+comment0.text=\r\n\ Solves\ the\ maze\ defined\ its\ parent\ class\ (maze)\ using\ the\ flood\ solving\ algorithm\r\n
+comment1.params=
+comment1.target=Maze_solve()
+comment1.text=\r\n\ A\ dummy\ constructor\ to\ allow\ the\ call\ of\ its\ method\ from\ its\ parent\ class\ (Maze)\r\n
+comment2.params=display
+comment2.target=boolean\ solveMaze(boolean)
+comment2.text=\r\n\ Solves\ the\ maze\ defined\ its\ parent\ class\ (maze)\ using\ the\ flood\ solving\ algorithm\r\n
+comment3.params=maze\ size\ currentSolver
+comment3.target=void\ newSolvers(Maze_piece[][],\ int,\ Maze_solver)
+comment3.text=\r\n\ Intilaises\ new\ maze\ solvers\ based\ on\ current\ positon\ and\ possible\ positions\ for\ the\ new\ solvers\r\n\ And\ excludes\ going\ back\ on\ itself\r\n
+comment4.params=millisec
+comment4.target=void\ delay(int)
+comment4.text=\r\n\ Pause\ for\ a\ given\ time\ in\ milliseconds\r\n
+numComments=5

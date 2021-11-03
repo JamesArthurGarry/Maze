@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Maze_solver
+comment0.text=\r\n\ A\ maze\ solver\ which\ knows\ about\ its\ location\ \ (From\ its\ parent\ class)\r\n\ and\ how\ many\ steps\ it\ has\ left\r\n
+comment1.params=position\ stepsRemaining
+comment1.target=Maze_solver(int[],\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Maze_solver\r\n\ Sets\ the\ intial\ values\ of\ the\ solver\r\n
+comment2.params=
+comment2.target=int\ getStepsLeft()
+comment2.text=\r\n\ An\ accessor\ method\ for\ steps\ left\r\n
+numComments=3

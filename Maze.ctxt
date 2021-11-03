@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Runs\ maze\ method\ based\ upon\ user\ input\r\n
+comment2.params=
+comment2.target=void\ mazeGenTextFile()
+comment2.text=\r\n\ Generates\ a\ maze\ from\ the\ text\ file\ a\ visually\ displays\ the\ attempt\ at\ solving\ it\r\n
+comment3.params=display\ Size
+comment3.target=Maze_piece[][]\ mazeGenRandom(boolean,\ int)
+comment3.text=\r\n\ Generates\ a\ random\ maze\ until\ one\ is\ solveable\r\n\ Display\ determines\ if\ the\ flood\ solving\ algorithm\ is\ displayed\r\n
+comment4.params=Size
+comment4.target=void\ mazeGenRandomToSolve(int)
+comment4.text=\r\n\ Makes\ use\ of\ the\ above\ method\ and\ then\ lets\ the\ user\ to\ solve\ it\r\n
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.text=\r\n\ Determines\ which\ key\ has\ been\ pressed\ and\ if\ the\ direction\r\n\ of\ the\ player\ piece\ needs\ to\ be\ updated\r\n
+comment6.params=e
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment6.text=\r\n\ Determines\ which\ key\ has\ been\ released\ and\ if\ the\ direction\r\n\ of\ the\ player\ piece\ needs\ to\ be\ updated\r\n
+comment7.params=
+comment7.target=Maze_view\ createMazeView()
+comment7.text=\r\n\ Creates\ and\ returns\ a\ maze\ view\ object\r\n
+numComments=8
