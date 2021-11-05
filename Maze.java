@@ -26,9 +26,6 @@ public class Maze
      * Runs maze method based upon user input
      */
     public static void main(String[] args) {
-        // When using Maze_options the Maze_view does not get updates until the method has finished
-        //Maze_options optionsObject = new Maze_options();
-        //optionsObject.mazeOptions();
                 
         // Options for maze methods determined by parameter given to main
         // If no parameters given generate and solve maze from text file
